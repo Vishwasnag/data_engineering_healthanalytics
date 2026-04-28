@@ -223,13 +223,7 @@ After mastering this tutorial, you'll have the foundation to tackle any data eng
 Found ways to improve the tutorial? Fork the repository, create a feature branch, and submit a pull request. Contributions help make this resource better for everyone learning data engineering.
 
 
-## 🔗 Connect & Learn More
 
-Let’s stay in touch and keep learning together!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semaan)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/viktoria.semaan)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=youtube&logoColor=white)](https://www.youtube.com/@viktoriasemaan)
 
 ⭐ **Found this helpful?** Star the repo and share with developers interested in data & AI!
 
